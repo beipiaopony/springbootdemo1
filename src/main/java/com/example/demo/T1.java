@@ -9,6 +9,7 @@ public class T1 {
 		System.out.println("helo2");
 		System.out.println("helo4");
 		System.out.println("helo5");
+		System.out.println("helo6");
 	}
 
 }
